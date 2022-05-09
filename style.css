@@ -359,6 +359,12 @@ section {
 .skills-content .right .heroku::before{
 	width: 70%;
 }
+.skills-content .right .Vercel::before{
+	width: 70%;
+}
+.skills-content .right .Netlify::before{
+	width: 70%;
+}
 .skills-content .right .linux::before{
 	width: 80%;
 }
